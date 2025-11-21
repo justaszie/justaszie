@@ -1,4 +1,4 @@
-## Hi there 👋
+## Justas Zieminykas
 
 <!--
 **justaszie/justaszie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Portfolio
+1. [Weight Tracker app](https://github.com/justaszie/weight-tracker): Full Stack app that fetches your weight from Google Fit API and provides metrics to help you track your weight goals. It's built as an SPA with **React TS** Frontend and **Python (FastAPI)** Backend. It includes integrations with **Google Fit Web API** and **Supabase** for auth. 
