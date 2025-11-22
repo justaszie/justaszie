@@ -1,5 +1,5 @@
 ## Portfolio - Justas Zieminykas
-Hi, I'm Justas - a full-stack software engineer with **strong backend foundation (Python, FastAPI, SQL, data processing, networks, REST APIs)**, and **solid frontend skills in Javascript, Typescript, and React**. I build clean, testable, maintainable [full-stack web apps](#projects) and deploy them through **CI/CD pipelines**.
+Hi, I'm Justas - a full-stack software engineer with **strong backend foundation (Python, FastAPI, SQL, data processing, networks, REST APIs)**, and **solid frontend skills in HTML/CSS, Javascript, Typescript, and React**. I build clean, testable, maintainable [full-stack web apps](#projects) and deploy them through **CI/CD pipelines**.
 
 
 Before software engineering, I worked in product management, which gave me strong product intuition and attention to user value - experience that helps me make technical tradeoff decisions. I can bring value to software teams through my technical depth, product experience, ownership mindset, and passion for designing elegant software. Backend is my strength but I am comfortable working across the stack.
