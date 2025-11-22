@@ -26,7 +26,7 @@ A full-stack web app that integrates Google OAuth, gets Google Fit data from the
   - Deployed on Koyeb (backend) + Cloudflare Pages (frontend)
 
 **Links**
-- [Case Study]() <span style="color: red; font-weight: bold;"> TODO: add </span>
+- [Case Study]() <span style="color: red; font-weight: bold;"> WIP </span>
 - [Codebase](https://github.com/justaszie/weight-tracker)
 - [Live Demo](https://tracker.justas.tech/). Use demo credentials<sup style="color:red;">*</sup> :
   - Email: `wtdemo@justas.tech`
