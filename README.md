@@ -33,7 +33,7 @@ A full-stack web app that integrates Google OAuth, gets Google Fit data from the
   - Pwd: `demo1`
 - API Docs: [Swagger](https://api.tracker.justas.tech/docs) | [Redoc](https://api.tracker.justas.tech/redoc)
 
-<sup style="color:red;">*</sup> Demo account uses a mock data source to showcase the app's functionality. The production app has not been fully verified by Google yet, but I can add you to the testing group for real Google Fit data access - please reach out.
+<sup style="color:red;">*</sup> The demo account uses mock data source instead of Google Fit APIs. This is because the production integration requires verification by Google. Developers who want to test the real Google Fit integration can be added to the testing group upon request. 
 
 **Screenshots**
 ![Main View](/img/wt-screenshot-1.png)
