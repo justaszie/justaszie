@@ -26,14 +26,13 @@ A full-stack web app that integrates Google OAuth, gets Google Fit data from the
   - Deployed on Koyeb (backend) + Cloudflare Pages (frontend)
 
 **Links**
-- [Case Study]() <span style="color: red; font-weight: bold;"> WIP </span>
-- [Codebase](https://github.com/justaszie/weight-tracker)
+- [Codebase / Documentation](https://github.com/justaszie/weight-tracker)
 - [Live Demo](https://tracker.justas.tech/). Use demo credentials<sup style="color:red;">*</sup> :
   - Email: `wtdemo@justas.tech`
   - Pwd: `demo1`
 - API Docs: [Swagger](https://api.tracker.justas.tech/docs) | [Redoc](https://api.tracker.justas.tech/redoc)
 
-<sup style="color:red;">*</sup> The demo account uses mock data source instead of Google Fit APIs. This is because the production integration requires verification by Google. Developers who want to test the real Google Fit integration can be added to the testing group upon request. 
+<sup style="color:red;">*</sup> The demo account uses mock data source instead of Google Fit APIs. This is because the production integration requires verification by Google. Developers who want to test the real Google Fit integration can be added to the testing group upon request.
 
 **Screenshots**
 ![Main View](/img/wt-screenshot-1.png)
