@@ -6,12 +6,14 @@ Before software engineering, I worked in product management, which gave me stron
 
 Below you'll find [examples of my work](#projects) and how to [get in touch](#get-in-touch).
 
+--- 
 
 ### Get in touch
 - [Linkedin](https://www.linkedin.com/in/justas-%C5%BEieminykas-01423988/)
 - CV
 - Email: [justas.zieminykas@gmail.com](mailto:justas.zieminykas@gmail.com)
 
+---
 
 ## Projects
 ### 1. Google Fit Weight Tracker
@@ -38,6 +40,8 @@ A full-stack web app that integrates Google OAuth, gets Google Fit data from the
 ![Main View](/img/wt-screenshot-1.png)
 ![No Data View](/img/wt-screenshot-2.png)
 
+---
+
 ### 2. Events Manager
 [Codebase / Documentation](https://github.com/justaszie/event-manager)
 
@@ -47,4 +51,5 @@ Built as a project assessment, it's an application that allows management of nig
 - Session management, form validation, paginated data access
 - PostgreSQL: database with 2 tables and a 1-N relationship
 - Bash script for quick setup 
-  
+
+---
