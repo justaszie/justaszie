@@ -10,7 +10,7 @@ Below you'll find [examples of my work](#projects) and how to [get in touch](#ge
 
 ### Get in touch
 - [Linkedin](https://www.linkedin.com/in/justas-%C5%BEieminykas-01423988/)
-- CV
+- [CV](https://drive.google.com/file/d/1rsite6-GdILYAe0c3dpC3E5GlVJjBw2J/)
 - Email: [justas.zieminykas@gmail.com](mailto:justas.zieminykas@gmail.com)
 
 ---
