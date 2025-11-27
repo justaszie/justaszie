@@ -37,3 +37,14 @@ A full-stack web app that integrates Google OAuth, gets Google Fit data from the
 **Screenshots**
 ![Main View](/img/wt-screenshot-1.png)
 ![No Data View](/img/wt-screenshot-2.png)
+
+### 2. Events Manager
+[Codebase / Documentation](https://github.com/justaszie/event-manager)
+
+Built as a project assessment, it's an application that allows management of nightlife event listings.
+- Sign up, log in and CRUD features for events and associated venues
+- Python (Flask), server side rendering (Jinja2 Templates)
+- Session management, form validation, paginated data access
+- PostgreSQL: database with 2 tables and a 1-N relationship
+- Bash script for quick setup 
+  
