@@ -10,14 +10,13 @@ Below you'll find [examples of my work](#projects) and how to [get in touch](#ge
 
 ### Get in touch
 - [Linkedin](https://www.linkedin.com/in/justas-%C5%BEieminykas-01423988/)
-- [CV](https://drive.google.com/file/d/1rsite6-GdILYAe0c3dpC3E5GlVJjBw2J/)
-- Email: [justas.zieminykas@gmail.com](mailto:justas.zieminykas@gmail.com)
+- [justas.zieminykas@gmail.com](mailto:justas.zieminykas@gmail.com)
 
 ---
 
 ## Projects
 ### 1. Google Fit Weight Tracker
-A full-stack web app that integrates Google OAuth, gets Google Fit data from their REST API, and provides a dashboard view with weekly body weight metrics and trends.
+A full-stack web application that fetches and normalizes body weight data from external sources (Google Fit API) and presents insights in a modern web UI. It demonstrates end-to-end skills: full-stack development, OAuth 2.0, 3rd-party API integration, modular backend architecture, automated testing, and CI/CD.
 
 **Tech Stack**
 - **Backend**: FastAPI (Python 3.12), PostgreSQL, JWT Auth (Supabase), Google Auth, Google Web REST APIs, modular architecture.
@@ -32,9 +31,10 @@ A full-stack web app that integrates Google OAuth, gets Google Fit data from the
 - [Live Demo](https://tracker.justas.tech/). Use demo credentials<sup style="color:red;">*</sup> :
   - Email: `wtdemo@justas.tech`
   - Pwd: `demo1`
-- API Docs: [Swagger](https://api.tracker.justas.tech/docs) | [Redoc](https://api.tracker.justas.tech/redoc)
+- [API Docs](https://api.tracker.justas.tech/docs)
 
-<sup style="color:red;">*</sup> The demo account uses mock data source instead of Google Fit APIs. This is because the production integration requires verification by Google. Developers who want to test the real Google Fit integration can be added to the testing group upon request.
+><sup style="color:red;">*</sup> The credentials above give access to demo mode where you can try the features using a mock data source instead of real Google Fit API data. The app is currently in the testing phase on Google’s platform, so only the testing group users can access their Google Fit data using this app. Contact me  to add you to the testing group (please mention your gmail address)
+
 
 **Screenshots**
 ![Main View](/img/wt-screenshot-1.png)
