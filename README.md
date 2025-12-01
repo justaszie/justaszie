@@ -16,19 +16,19 @@ Below you'll find [examples of my work](#projects) and how to [get in touch](#ge
 
 ## Projects
 ### 1. Google Fit Weight Tracker
-A full-stack web application that fetches and normalizes body weight data from external sources (Google Fit API) and presents insights in a modern web UI. It demonstrates end-to-end skills: full-stack development, OAuth 2.0, 3rd-party API integration, modular backend architecture, automated testing, and CI/CD.
+A full-stack web application that allows users to enter their body weight or get it from external sources (Google Fit API) and presents analytical insights in a modern web UI. It demonstrates end-to-end skills: full-stack development, OAuth 2.0, 3rd-party API integration with data normalization, modular backend architecture, automated testing, and CI/CD.
 
 **Tech Stack**
 - **Backend**: FastAPI (Python 3.12), PostgreSQL, JWT Auth (Supabase), Google Auth, Google Web REST APIs, modular architecture.
 - **Frontend**: React + TypeScript, Vite, custom CSS ([BEM](https://getbem.com/) style), responsive UI
 - **CI / CD**
-  - Backend unit + integration tests (85% coverage with pytest)
+  - Backend unit + integration tests (~85% coverage with pytest)
   - mypy + formatter + linter, Github Actions, Git/PR hygiene
   - Deployed on Koyeb (backend) + Cloudflare Pages (frontend)
 
 **Links**
 - [Codebase / Documentation](https://github.com/justaszie/weight-tracker)
-- [Live Demo](https://tracker.justas.tech/). Use demo credentials<sup style="color:red;">*</sup> :
+- [Live Demo](https://tracker.justas.tech/). Sign up or use these demo credentials<sup style="color:red;">*</sup> :
   - Email: `wtdemo@justas.tech`
   - Pwd: `demo1`
 - [API Docs](https://api.tracker.justas.tech/docs)
